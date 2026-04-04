@@ -1,6 +1,6 @@
 # Biomarker Research Funding
 
-Between 2004 and 2024, NIH funded approximately **$62B to $175B** of biomarker-related research (nominal dollars), depending on how broadly "biomarker" is defined.
+Between 2004 and 2024, NIH funded between **$62B and $175B** of biomarker-related research (nominal dollars). The core term set ($62B) is a conservative undercount — it captures grants that explicitly use biomarker terminology but misses research that operates on biomarker logic without naming it as such. The expanded term set ($175B) is likely an overcount — it captures grants with biomarker-adjacent language that may prove only tangentially relevant on closer review.
 
 *Click charts to open the interactive version.*
 
@@ -18,6 +18,6 @@ We screened NIH Reporter — the publicly available database of all federally fu
 
 ## Data
 
-- [](data/fig-1/biomarker_cumulative_funding_by_year.csv) — core term set, annual and cumulative funding (nominal)
-- [](data/fig-1/extended_biomarker_cumulative_funding_by_year.csv) — expanded term set, annual and cumulative funding (nominal)
-- [](data/fig-1/biomarker_funding_2004_2024_with_cpi_adjustment.csv) — both term sets, nominal and 2024-dollar adjusted (BLS CPI-U)
+- [biomarker_cumulative_funding_by_year.csv](data/fig-1/biomarker_cumulative_funding_by_year.csv) — core term set, annual and cumulative funding (nominal)
+- [extended_biomarker_cumulative_funding_by_year.csv](data/fig-1/extended_biomarker_cumulative_funding_by_year.csv) — expanded term set, annual and cumulative funding (nominal)
+- [biomarker_funding_2004_2024_with_cpi_adjustment.csv](data/fig-1/biomarker_funding_2004_2024_with_cpi_adjustment.csv) — both term sets, nominal and 2024-dollar adjusted (BLS CPI-U)
