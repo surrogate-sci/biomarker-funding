@@ -4,7 +4,7 @@ Between 2004 and 2024, NIH funded approximately **$36B to $134B** of biomarker-r
 
 *Click charts to open the interactive version.*
 
-[![Cumulative NIH Biomarker Research Spending FY2004-2024, nominal](data/fig-1/cumulative_biomarker_funding_nominal.png)](https://datawrapper.dwcdn.net/ZOLb1/2/)
+[![Cumulative NIH Biomarker Research Spending FY2004-2024, nominal](data/fig-1/cumulative_biomarker_funding_nominal.png)](https://datawrapper.dwcdn.net/VydiG/)
 
 [![Cumulative NIH Biomarker Research Spending FY2004-2024, 2024 dollars](data/fig-1/cumulative_biomarker_funding_2024dollars.png)](https://datawrapper.dwcdn.net/pzYSe/2/)
 
