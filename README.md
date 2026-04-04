@@ -1,6 +1,6 @@
 # Biomarker Research Funding
 
-Between 2004 and 2024, NIH funded between **$62B and $175B** of biomarker-related research (nominal dollars). The core term set ($62B) is a conservative undercount — it captures grants that explicitly use biomarker terminology but misses research that operates on biomarker logic without naming it as such. The expanded term set ($175B) is likely an overcount — it captures grants with biomarker-adjacent language that may prove only tangentially relevant on closer review.
+NIH has spent between **$62B and $175B** on biomarker-related research since 2004, depending on how broadly "biomarker" is defined. The true figure likely falls closer to the middle.
 
 *Click charts to open the interactive version.*
 
@@ -10,7 +10,13 @@ Between 2004 and 2024, NIH funded between **$62B and $175B** of biomarker-relate
 
 ## How these numbers were developed
 
-We screened NIH Reporter — the publicly available database of all federally funded NIH research — for biomarker-relevant grants using keyword searches on project titles, terms, and abstracts. Facilities grants (administrative cores, shared resources) were excluded. Grants are included if they match any term in a **core set**: *biomarker, clinical marker, surrogate endpoint, imaging marker, endophenotype, intermediate outcome, intermediate endpoint, digital endpoint, risk stratification, patient selection, companion diagnostic, predicting response, response to therapy*. An **expanded set** adds broader diagnostic, prognostic, stratification, and precision medicine terminology; grants matched only by the expanded set may contain false positives and are intended for downstream screening. Annual totals span FY2004–2024; FY2005 and FY2006 are likely undercounted due to incomplete PROJECT_TERMS metadata in NIH ExPORTER, partially recovered via abstract search.
+We searched NIH Reporter — the public database of all federally funded NIH grants — for biomarker-relevant research using keyword searches on project titles, terms, and abstracts. Facilities and administrative grants were excluded.
+
+The **core term set ($62B)** counts grants that explicitly name biomarker concepts: *biomarker, clinical marker, surrogate endpoint, imaging marker, endophenotype, intermediate outcome, intermediate endpoint, digital endpoint, risk stratification, patient selection, companion diagnostic, predicting response,* and *response to therapy*. This is a conservative estimate.
+
+The **expanded term set ($175B)** adds broader diagnostic, prognostic, stratification, and precision medicine language, attempting to capture all biomarker-relevant research including grants that do not use explicit biomarker terminology.
+
+Annual totals span FY2004–2024. FY2005 and FY2006 are likely undercounted due to incomplete metadata in NIH ExPORTER, partially recovered by searching grant abstracts. Phase 2 of this project will provide a more precise estimate through LLM-graded evaluation of individual grants.
 
 ---
 
