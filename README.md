@@ -8,6 +8,11 @@ NIH has spent between **$62B and $175B** on biomarker-related research since 200
 
 [![Cumulative NIH Biomarker Research Spending FY2004-2024, 2024 dollars](data/fig-1/cumulative_biomarker_funding_2024dollars.png)](https://datawrapper.dwcdn.net/pzYSe/)
 
+
+**Forthcoming:** In the next phase of this project, we will study the landscape of biomarker R&D and how discovery & development (mis)align with intended clinical and regulatory use cases. Here is a quick preview of where all this funding goes in oncology. ![diagnosing diseases, predicting risk and prognosis](https://github.com/surrogate-sci/nih-biomarker-funding/blob/main/visualizations/biomarker_use_distribution.png) Risk and prognosis biomarkers require correlational evidence that generalizes over a representative population. Such biomarker applications are much less epistemically demanding than ![causal bioamrkers](https://github.com/surrogate-sci/nih-biomarker-funding/blob/main/visualizations/evidence_strength_distribution.png) causal biomarkers to help patients find treatments that maximize personal benefit or surrogate biomarkers that effective and early forecasts of eventual patient benefit.
+
+Please get in touch with [manjari@manjarinarayan.com](mailto:manjari@manjarinarayan.com) if you are interested in updates.
+
 ## How these numbers were developed
 
 We searched NIH Reporter — the public database of all federally funded NIH grants — for biomarker-relevant research using keyword searches on project titles, terms, and abstracts. Facilities and administrative grants were excluded.
@@ -19,10 +24,6 @@ The **expanded term set ($175B)** adds broader diagnostic, prognostic, stratific
 Annual totals span FY2004–2024. FY2005 and FY2006 are likely undercounted due to incomplete metadata in NIH ExPORTER, partially recovered by searching grant abstracts. Phase 2 of this project will provide a more precise estimate through LLM-graded evaluation of individual grants.
 
 ---
-
-**Forthcoming:** In the next phase of this project, we will study the landscape of biomarker R&D and how discovery & development (mis)align with intended clinical and regulatory use cases. Here is a quick preview of where all this funding goes in oncology. ![diagnosing diseases, predicting risk and prognosis](https://github.com/surrogate-sci/nih-biomarker-funding/blob/main/visualizations/biomarker_use_distribution.png) Risk and prognosis biomarkers require correlational evidence that generalizes over a representative population. Such biomarker applications are much less epistemically demanding than ![causal bioamrkers](https://github.com/surrogate-sci/nih-biomarker-funding/blob/main/visualizations/evidence_strength_distribution.png) to help patients find treatments that maximize personal benefit or surrogate endpoints that effectively forecast eventual patient benefit.
-
-Please get in touch with [manjari@manjarinarayan.com](mailto:manjari@manjarinarayan.com) if you are interested in updates.
 
 ## Data
 
