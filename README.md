@@ -1,6 +1,6 @@
 # Biomarker Research Funding
 
-NIH has spent between **$62B and $175B** on biomarker-related research since 2004, depending on how broadly "biomarker" is defined. The true figure likely falls closer to the middle.
+NIH has spent between **$62B and $175B** on biomarker-related research since 2004. Why then has the throughput and performance characteristics of valuable biomarkers such as surrogate endpoints and patient empowered decision making so poor?   
 
 *Click charts to open the interactive version.*
 
@@ -20,7 +20,9 @@ Annual totals span FY2004–2024. FY2005 and FY2006 are likely undercounted due 
 
 ---
 
-**Forthcoming:** In the next phase of this project, we will study the landscape of biomarker R&D and how discovery & development (mis)align with intended clinical and regulatory use cases. Please get in touch with [manjari@manjarinarayan.com](mailto:manjari@manjarinarayan.com) if you are interested in updates.
+**Forthcoming:** In the next phase of this project, we will study the landscape of biomarker R&D and how discovery & development (mis)align with intended clinical and regulatory use cases. A quick preview of tells us that most biomarker funding goes into ![diagnosing diseases, predicting risk and prognosis](https://github.com/surrogate-sci/nih-biomarker-funding/blob/main/visualizations/biomarker_use_distribution.png). But these applications only require correlational evidence. They are much less epistemically demanding than ![causal bioamrkers](https://github.com/surrogate-sci/nih-biomarker-funding/blob/main/visualizations/evidence_strength_distribution.png) helping patients find treatments that maximize individual benefit or surrogate endpoints that effectively forecast eventual patient benefit. If the biomarker R&D allocation continues to favor correlational evidence for generic biomarker claims that do not consider the scientific requirements that a use-case such as surrogate endpoint demands.  
+
+Please get in touch with [manjari@manjarinarayan.com](mailto:manjari@manjarinarayan.com) if you are interested in updates.
 
 ## Data
 
