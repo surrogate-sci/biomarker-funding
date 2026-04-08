@@ -1,6 +1,6 @@
 # Biomarker Research Funding
 
-NIH has spent between **$62B and $175B** on biomarker-related research since 2004. Why then has the throughput and performance characteristics of valuable biomarkers such as surrogate endpoints and patient empowered decision making so poor?   
+NIH has spent between **$62B and $175B** on biomarker-related research since 2004. Why then has the throughput and performance characteristics of valuable biomarkers,such as surrogate endpoints and treatment optimization, been so poor? This is the subject of our inquiry.
 
 *Click charts to open the interactive version.*
 
